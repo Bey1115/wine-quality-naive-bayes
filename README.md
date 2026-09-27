@@ -144,7 +144,6 @@ The original project documentation identifies the data as the Kaggle **Wine Clas
 
 Kaggle: https://www.kaggle.com/c/wine-m/data
 
-If redistributing the CSV files is not permitted by the dataset license, remove them from the repository and provide instructions for obtaining them from the original source instead.
 
 ---
 
