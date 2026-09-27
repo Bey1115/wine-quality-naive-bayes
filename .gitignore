@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Local data
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Generated model artifacts
+models/*.joblib
+models/*.pkl
+
+# Generated figures
+reports/figures/*.png
+reports/figures/*.jpg
+reports/figures/*.jpeg
+
+# OS
+.DS_Store
+Thumbs.db
