@@ -568,10 +568,3 @@ The reported validation results were produced from the dataset version included 
 - Jupyter Notebook
 - Joblib
 
----
-
-## Author
-
-**Bea Jane Lazona**
-
-This project was created as a machine learning classification portfolio project focused on understanding the complete workflow from data exploration to model evaluation and prediction.
